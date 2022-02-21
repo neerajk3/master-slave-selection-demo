@@ -1,7 +1,7 @@
 master-slave-selection-demo
 
 ## Introduction
-   This is a Spring Boot based application with scheduling capability and you are supposed to run the scheduler only in one of the instances.
+   This is a Spring Boot based application with scheduling capability where we intent to run scheduler in one of the running instances.
    We will use Zookeeper to select master instance and master alone would perform the scheduling task.
     
     
