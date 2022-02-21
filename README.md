@@ -1,4 +1,4 @@
-##master-slave-selection-demo
+master-slave-selection-demo
 
 ## Introduction
    This is a Spring Boot based application with scheduling capability and you are supposed to run the scheduler only in one of the instances.
